@@ -3,7 +3,7 @@
      <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
 </p>
 <div align="center"> 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=600&center=true&vCenter=true&width=435&height=30&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Hakiraxx;Hola%2C+soy+Hakiraxx.;Ol%C3%A1%2C+eu+sou+Hakiraxx.;From+VietNam%2C+with+love+%3C3)](https://git.io/typing-svg)
+   <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=600&center=true&vCenter=true&width=435&height=30&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Hakiraxx;Hola%2C+soy+Hakiraxx.;Ol%C3%A1%2C+eu+sou+Hakiraxx.;From+VietNam%2C+with+love+%3C3" alt="Typing SVG"/>
 </div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
