@@ -15,6 +15,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-9033ff?style=for-the-badge&logo=vercel&logoColor=white)
 
 # Information
-I am **Nguyen Tan Dung**, born on *September 05, 2006*, and grew up in **Vietnam**. Currently, I am a **freelance programmer** with over **2 years of experience** and have explored more than **3 different programming languages**. At the same time, I am also a high school student studying at *Phenikaa University*.
+I am **Nguyen Tan Dung**, born on *September 05, 2006*, and grew up in **Vietnam**. Currently, I am a **freelance programmer** with over **2 years of experience** and have explored more than **3 different programming languages**. At the same time, I am also a Univer student studying at *Phenikaa University*.
 
 - 📫 Find Me At: [Facebook](https://www.facebook.com/l4ngtuc0d0nn/)
